@@ -1,0 +1,13 @@
+# Site settings
+title: James Ferguson
+email: jamesfergusonx@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My github personal page.  Work in progress.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jfergie.github.io" # the base hostname & protocol for your site
+twitter_username: jf7
+github_username:  jfergie
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
